@@ -10,3 +10,6 @@
 
 ---
 ![](https://visitcount.itsvg.in/api?id=shayzi3&label=Profile%20Views&color=8&icon=5&pretty=true)
+<br clear="both">
+<img src="https://raw.githubusercontent.com/shayzi3/shayzi3/output/snake.svg" alt="Snake animation" />
+###
